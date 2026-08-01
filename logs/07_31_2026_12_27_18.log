@@ -1,0 +1,3 @@
+[ 2026-07-31 12:27:20,954 ] root - INFO - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/refs/heads/main/data.csv
+[ 2026-07-31 12:27:20,954 ] root - INFO - pre-processing...
+[ 2026-07-31 12:27:20,965 ] root - INFO - Data preprocessing completed

@@ -86,3 +86,7 @@ dmypy.json
 Thumbs.db
 
 cred.txt
+
+local_s3/
+
+models/

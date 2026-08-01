@@ -1,0 +1,2 @@
+[ 2026-07-30 11:20:38,727 ] root - ERROR - File not found: params.yaml
+[ 2026-07-30 11:20:38,727 ] root - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: 'params.yaml'

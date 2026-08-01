@@ -1,0 +1,10 @@
+[ 2026-07-31 11:47:02,003 ] httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-07-31 11:47:02,010 ] dagshub - INFO - Accessing as hemantjangidn-blip
+[ 2026-07-31 11:47:03,087 ] httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/hemantjangidn-blip/Capstone-Project "HTTP/1.1 200 OK"
+[ 2026-07-31 11:47:04,039 ] httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-07-31 11:47:04,041 ] dagshub - INFO - Initialized MLflow to track repo "hemantjangidn-blip/Capstone-Project"
+[ 2026-07-31 11:47:04,042 ] dagshub - INFO - Repository hemantjangidn-blip/Capstone-Project initialized!
+[ 2026-07-31 11:47:06,011 ] root - INFO - Model loaded from ./models/model.pkl
+[ 2026-07-31 11:47:06,016 ] root - INFO - Data loaded from ./data/processed/test_bow.csv
+[ 2026-07-31 11:47:06,024 ] root - INFO - Model evaluation metrics calculated
+[ 2026-07-31 11:47:06,024 ] root - INFO - Metrics saved to reports/metrics.json

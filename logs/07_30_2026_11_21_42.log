@@ -1,0 +1,2 @@
+[ 2026-07-30 11:21:42,594 ] root - ERROR - Unexpected error occurred while loading the data: [Errno 2] No such file or directory: './data/interim/train_processed.csv'
+[ 2026-07-30 11:21:42,595 ] root - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: './data/interim/train_processed.csv'
