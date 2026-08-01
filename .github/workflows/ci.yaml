@@ -29,6 +29,6 @@ jobs:
 
       - name: run pipeline
         env:
-          DAGSHUB_USER_TOKEN: ${{ secrets.CAPSTONE_TEST }}
+          CAPSTONE_TEST: ${{ secrets.CAPSTONE_TEST }}
         run: |
           dvc repro
